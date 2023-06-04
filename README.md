@@ -20,3 +20,18 @@ https://www.webfx.com/web-design/learn/why-does-your-website-look-different-in-d
 HTML form submit - sanding from data
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data
 
+dditional resources
+The following resources will be helpful as additional references in dealing with different concepts related to the topics you have covered in this module. 
+
+https://html.com/media/
+
+https://studio.support.brightcove.com/publish/choosing-correct-embed-code.html
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
+
+https://www.educba.com/iframes-in-html/
+
+https://www.tutorialrepublic.com/html-tutorial/html5-canvas.php
+
+https://html.spec.whatwg.org/multipage/media.html
+
