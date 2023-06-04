@@ -5,13 +5,13 @@ Profesional Web Developer Meta
 Clien-side validation of froms with HTML5
 https://www.sitepoint.com/client-side-form-validation-html5/
 
-<input> tag in HTML
+< input > tag in HTML
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input
 
 Form Falidation example
 https://www.the-art-of-web.com/html/html5-form-validation/
 
-<input type="radio"> button
+< input type="radio" > button
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio
 
 why does your website look different in different browser
